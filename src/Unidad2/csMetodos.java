@@ -78,4 +78,10 @@ public class csMetodos {
         //return Math.pow(x, 3) + 4 * Math.pow(x, 2) - 10;
         // return Math.pow(x, 2)-0.9*x-1.52;
     }
+    //
+    private double conteo(double y){
+        
+        return (9.8*68.1/3);
+    }
+    //
 }
